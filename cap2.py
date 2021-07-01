@@ -63,9 +63,9 @@ print(loona)"""
     "main dancer": "seulgi",
     "main vocalist": "wendy"
 }
-lista = ["lista",{"stream","loona"},dic,4]
-print(lista)
-         """
+lista = ["lista",("stream","loona"),dic,4]
+print(lista)"""
+
 # Exercício 10 - Considere a string abaixo. Imprima na tela apenas os caracteres da posição 1 a 18.
 """
 frase = 'Cientista de Dados é o profissional mais sexy do século XXI'
